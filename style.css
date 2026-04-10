@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.inter-1 {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: light;
+}
+
+#sales-form * {
+    font-weight: 300;
+}
+
+#services h3 {
+    font-weight: 300;
+}
+
+#citations h3 {
+    font-weight: 300;
+}
+
+.input-box {
+    border: 0.67px solid #E7E5E4;
+    border-radius: 12px;
+    padding: 12px 16px;
+}
+
+#nxt-btn {
+    background-color: #6f6f6f;
+    color: #ffffff;
+
+    border: none;
+    border-radius: 9999px;
+
+    padding: 10px 22px;
+    font-size: 16px;
+    font-weight: 500;
+
+    cursor: pointer;
+}
